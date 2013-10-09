@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Devel Context Blocks feature.
+ */
+
+include_once 'dcb.features.inc';
