@@ -32,6 +32,12 @@ function dcb_context_default_contexts() {
           'region' => 'sidebar_first',
           'weight' => '-10',
         ),
+        'devel-execute_php' => array(
+          'module' => 'devel',
+          'delta' => 'execute_php',
+          'region' => 'sidebar_first',
+          'weight' => '-9',
+        ),
       ),
     ),
   );
